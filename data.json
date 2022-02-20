@@ -1,0 +1,48 @@
+[
+    {
+        "First Name": "R",
+        "Middle Name": " ",
+        "Last Name": "V",
+        "Email": "RV007@xyz.com",
+        "Phone": "0987654321",
+        "Role": "Trainee",
+        "Address": "India"
+    },
+    
+    {
+        "First Name": "XYXY",
+        "Middle Name": " ",
+        "Last Name": "000",
+        "Email": "xyxy@gmail.com",
+        "Phone": "1111111",
+        "Role": " Full Stack Developer",
+        "Address": "Location"
+    },
+    {
+        "First Name": "NAme",
+        "Middle Name": " ",
+        "Last Name": " L Name",
+        "Email": "N.Lname@gmail.com",
+        "Phone": "0987654321",
+        "Role": "Post",
+        "Address": "Country"
+    },
+    {
+        "First Name": "F name",
+        "Middle Name": " ",
+        "Last Name": "L name",
+        "Email": "F.L@gmail.com",
+        "Phone": "9876543210",
+        "Role": "Designation",
+        "Address": "Somewhere"
+    },
+    {
+        "First Name": "NAME",
+        "Middle Name": " ",
+        "Last Name": "Surname",
+        "Email": "N.S@gmail.com",
+        "Phone": "123456789",
+        "Role": "Developer",
+        "Address": "On Earth"
+    }
+]
